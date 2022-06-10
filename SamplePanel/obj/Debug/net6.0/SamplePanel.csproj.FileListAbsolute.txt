@@ -271,3 +271,4 @@ C:\Users\developer\Desktop\SamplePanelAndPublicSiteWithDotnet\SamplePanel\bin\De
 C:\Users\developer\Desktop\SamplePanelAndPublicSiteWithDotnet\SamplePanel\bin\Debug\net6.0\SamplePanel.Core.pdb
 C:\Users\developer\Desktop\SamplePanelAndPublicSiteWithDotnet\SamplePanel\bin\Debug\net6.0\SamplePanel.Data.pdb
 C:\Users\developer\Desktop\SamplePanelAndPublicSiteWithDotnet\SamplePanel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\developer\Desktop\SamplePanelAndPublicSiteWithDotnet\SamplePanel\obj\Debug\net6.0\scopedcss\Areas\Admin\Views\Shared\_AdminLayout.cshtml.rz.scp.css

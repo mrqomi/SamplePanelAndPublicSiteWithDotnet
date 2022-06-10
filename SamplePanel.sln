@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamplePanel.Data", "SampleP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamplePanel.Core", "SamplePanel.Core\SamplePanel.Core.csproj", "{915F3D9A-1742-4525-BCDC-2ACE0EF6A879}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreTest", "CoreTest\CoreTest.csproj", "{56127E89-0B44-4A68-A3FD-36EF7BAF8A25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{915F3D9A-1742-4525-BCDC-2ACE0EF6A879}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{915F3D9A-1742-4525-BCDC-2ACE0EF6A879}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{915F3D9A-1742-4525-BCDC-2ACE0EF6A879}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56127E89-0B44-4A68-A3FD-36EF7BAF8A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56127E89-0B44-4A68-A3FD-36EF7BAF8A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56127E89-0B44-4A68-A3FD-36EF7BAF8A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56127E89-0B44-4A68-A3FD-36EF7BAF8A25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
