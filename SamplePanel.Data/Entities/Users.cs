@@ -24,9 +24,16 @@ namespace SamplePanel.Data
         [Column("Email", TypeName = "nvarchar")]
         [MaxLength(500)]
         public string Email { get; set; }
+        [Column("UserName", TypeName = "nvarchar")]
+        [MaxLength(50)]
+        public string UserName { get; set; }
+        [Column("Pass", TypeName = "nvarchar")]
+        [MaxLength(200)]
+        public string Pass { get; set; }
         public bool Active { get; set; }
-
         public int RoleID { get; set; }
-        public Roles Role { get; set; }
+
+        public Roles Role { get; set; }   
+
     }
 }
