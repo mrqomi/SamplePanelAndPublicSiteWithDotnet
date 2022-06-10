@@ -1,0 +1,15 @@
+C:\Users\developer\Desktop\SamplePanelAndPublicSiteWithDotnet\SamplePanel.Core\bin\Debug\net6.0\SamplePanel.Core.deps.json
+C:\Users\developer\Desktop\SamplePanelAndPublicSiteWithDotnet\SamplePanel.Core\bin\Debug\net6.0\SamplePanel.Core.dll
+C:\Users\developer\Desktop\SamplePanelAndPublicSiteWithDotnet\SamplePanel.Core\bin\Debug\net6.0\SamplePanel.Core.pdb
+C:\Users\developer\Desktop\SamplePanelAndPublicSiteWithDotnet\SamplePanel.Core\bin\Debug\net6.0\SamplePanel.Data.dll
+C:\Users\developer\Desktop\SamplePanelAndPublicSiteWithDotnet\SamplePanel.Core\bin\Debug\net6.0\SamplePanel.Data.pdb
+C:\Users\developer\Desktop\SamplePanelAndPublicSiteWithDotnet\SamplePanel.Core\obj\Debug\net6.0\SamplePanel.Core.csproj.AssemblyReference.cache
+C:\Users\developer\Desktop\SamplePanelAndPublicSiteWithDotnet\SamplePanel.Core\obj\Debug\net6.0\SamplePanel.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\developer\Desktop\SamplePanelAndPublicSiteWithDotnet\SamplePanel.Core\obj\Debug\net6.0\SamplePanel.Core.AssemblyInfoInputs.cache
+C:\Users\developer\Desktop\SamplePanelAndPublicSiteWithDotnet\SamplePanel.Core\obj\Debug\net6.0\SamplePanel.Core.AssemblyInfo.cs
+C:\Users\developer\Desktop\SamplePanelAndPublicSiteWithDotnet\SamplePanel.Core\obj\Debug\net6.0\SamplePanel.Core.csproj.CoreCompileInputs.cache
+C:\Users\developer\Desktop\SamplePanelAndPublicSiteWithDotnet\SamplePanel.Core\obj\Debug\net6.0\SamplePanel.Core.csproj.CopyComplete
+C:\Users\developer\Desktop\SamplePanelAndPublicSiteWithDotnet\SamplePanel.Core\obj\Debug\net6.0\SamplePanel.Core.dll
+C:\Users\developer\Desktop\SamplePanelAndPublicSiteWithDotnet\SamplePanel.Core\obj\Debug\net6.0\refint\SamplePanel.Core.dll
+C:\Users\developer\Desktop\SamplePanelAndPublicSiteWithDotnet\SamplePanel.Core\obj\Debug\net6.0\SamplePanel.Core.pdb
+C:\Users\developer\Desktop\SamplePanelAndPublicSiteWithDotnet\SamplePanel.Core\obj\Debug\net6.0\ref\SamplePanel.Core.dll
